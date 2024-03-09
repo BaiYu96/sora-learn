@@ -9,4 +9,7 @@ part2学习笔记：
   * [Attention & LLM思考和练习](./part2/part2_2/README.md)
   * [attentioin小节笔记](./part2/part2_2/attention/README.md)
   * [llm章节实战笔记](./part2/part2_2/llm/llm.ipynb)
+* part2_3:
+  * [基于Transformers Diffusion模型原理解析与实战](./part2/part2_3/README.md)
+ 
 
