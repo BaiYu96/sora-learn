@@ -62,3 +62,5 @@ HiFi-GAN 能够将声学模型产生的频谱转换为高质量的音频，这�
 [魔搭个性声音定制在线体验](https://modelscope.cn/studios/iic/personal_tts/summary)
 
 [SambertHifigan个性化语音合成-中文-预训练-16k](https://modelscope.cn/models/iic/speech_personal_sambert-hifigan_nsf_tts_zh-cn_pretrain_16k/summary)
+
+[KAN-TTS](https://github.com/alibaba-damo-academy/KAN-TTS/wiki)
