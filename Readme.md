@@ -12,7 +12,7 @@ part2学习笔记：
   * [llm章节实战笔记](./part2/part2_2/llm/llm.ipynb)
 * part2_3:
   * [基于Transformers Diffusion模型原理解析与实战](./part2/part2_3/README.md)
-* part2_3:
+* part2_4:
   * [声音生成TTS技术解析与实战](./part2/part2_4/README.md)
   
  
