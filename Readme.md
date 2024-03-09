@@ -6,4 +6,7 @@ part2学习笔记：
 
 * part2_1: [文生图片路径技术路径、原理、实战](./part2/part2_1/Readme.md)
 * part2_2: 
+  * [Attention & LLM思考和练习](./part2/part2_2/README.md)
+  * [attentioin小节笔记](./part2/part2_2/attention/README.md)
+  * [llm章节实战笔记](./part2/part2_2/llm/llm.ipynb)
 
