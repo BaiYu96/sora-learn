@@ -15,5 +15,5 @@ part2学习笔记：
 * part2_4:
   * [声音生成TTS技术解析与实战](./part2/part2_4/README.md)
   
- 
 
+part3学习笔记：[Sora复现步骤+动手生成视频](./part3/README.md)
